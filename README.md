@@ -6,7 +6,7 @@ Aufgabe 2: Markdown Fabio Hirt
 1. Punkt 1
   * a
   * b
-  * c
+  * change
 
 2. Punkt 2
   * a
